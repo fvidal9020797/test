@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx-container
-        image: registry1737910014985.azurecr.io/image-workflow-1737909949017
+        image: registry1737910738021.azurecr.io/image-workflow-1737910676171
         ports:
         - containerPort: 80
